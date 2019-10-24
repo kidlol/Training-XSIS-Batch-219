@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af298216-2541-4991-b9b5-9c110d87af81" name="Default Changelist" comment="" />
+    <list default="true" id="af298216-2541-4991-b9b5-9c110d87af81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +41,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice09">
-    <configuration name="Nomor03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quiz1.Nomor03" />
+  <component name="RunManager" selected="Application.Nomor06">
+    <configuration name="Nomor01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Nomor01" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Quiz1.*" />
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nomor02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Nomor02" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="Nomor05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quiz1.Nomor05" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Nomor05" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Quiz1.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="Nomor06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quiz1.Nomor06" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Nomor06" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Quiz1.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,25 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nomor08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quiz1.Nomor08" />
+    <configuration name="Nomor07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Nomor07" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Quiz1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practice09" />
-      <module name="Batch-219" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +122,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Practise05" />
-      <item itemvalue="Application.Nomor08" />
-      <item itemvalue="Application.Nomor06" />
-      <item itemvalue="Application.Nomor03" />
+      <item itemvalue="Application.Nomor02" />
+      <item itemvalue="Application.Nomor07" />
+      <item itemvalue="Application.Nomor01" />
       <item itemvalue="Application.Nomor05" />
-      <item itemvalue="Application.Practice09" />
+      <item itemvalue="Application.Nomor06" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice09" />
         <item itemvalue="Application.Nomor06" />
-        <item itemvalue="Application.Nomor08" />
         <item itemvalue="Application.Nomor05" />
-        <item itemvalue="Application.Nomor03" />
+        <item itemvalue="Application.Nomor02" />
+        <item itemvalue="Application.Nomor01" />
+        <item itemvalue="Application.Nomor07" />
       </list>
     </recent_temporary>
   </component>
