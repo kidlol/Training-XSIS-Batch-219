@@ -31,7 +31,9 @@ public class Nomor02
         sisa = bilangan %1;
         System.out.println("Digit 5 : " + digit5 + " | Sisa " + sisa);
 
+        reversNumber = (digit5*10000)+(digit4*1000)+(digit3*100)+(digit2*10)+(digit1*1);
         System.out.println("________________________________________");
         System.out.println("Reverses Number : "+digit5+digit4+digit3+digit2+digit1);
+        System.out.println("Reverses Number : " + reversNumber);
     }
 }
