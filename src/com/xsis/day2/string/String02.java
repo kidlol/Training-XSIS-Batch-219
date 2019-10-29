@@ -20,5 +20,6 @@ public class String02
         revers = ""+i.charAt(3)+i.charAt(2)+i.charAt(1)+i.charAt(0);
         System.out.println("Reverses Text : " +r4+r3+r2+r1);
         System.out.println("Reverses Text : " + revers);
+        System.out.println(r1);
     }
 }

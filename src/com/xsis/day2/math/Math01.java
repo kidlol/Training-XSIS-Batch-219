@@ -5,6 +5,8 @@ public class Math01
     public static void main(String[] args)
     {
         int m = -4;
+        double a = 4.5;
+        double b = 4.4;
         double d = -4.5;
         System.out.println("Math Absolute : " + Math.abs(m));
         System.out.println("Math Absolute Double : " + Math.abs(d));
@@ -12,5 +14,7 @@ public class Math01
         System.out.println("Math pow : " + Math.pow(2,3));
         System.out.println("Math sqrt : " + Math.sqrt(4));
         System.out.println("Math random : " + Math.random());
+        System.out.println(Math.round(a));
+        System.out.println(Math.round(b));
     }
 }
