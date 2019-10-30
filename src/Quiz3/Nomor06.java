@@ -14,10 +14,6 @@ public class Nomor06
 
         for (int i = 0; i <a ; i++)
         {
-            if (i != 0)
-            {
-
-            }
             System.out.print("Input Value : ");
             value = scan.nextInt();
             sum = sum + value;

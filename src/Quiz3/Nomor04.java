@@ -6,17 +6,20 @@ public class Nomor04
 {
     public static void main(String[] args)
     {
-        int a,b =0;
+        int i, j = 0;
         Scanner scan = new Scanner(System.in);
+        String k="";
 
-        System.out.print("Input Values Looping : ");
-        a = scan.nextInt();
-
-        for (int i = 0; i <a ; i++)
+        do
         {
-            System.out.print("Input Values Numeric : ");
-            b = scan.nextInt();
+            System.out.print("Input Number (Except = 0) : ");
+            i = scan.nextInt();
+            if (i != 0 )
+            {
+                k = k + i + " ";
+            }
         }
-        System.out.println(b);
+        while (i != 0);
+        System.out.println("Display (Except 0) : " + k);
     }
 }

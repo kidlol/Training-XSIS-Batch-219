@@ -10,7 +10,7 @@ public class Nomor05
 
         while (population <= 100000)
         {
-            expands = population * .3;
+            expands = population * .03;
             population += expands;
             year++;
         }
